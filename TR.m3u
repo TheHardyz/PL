@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,A HABER
+http://rtmp.turkuvazgroup.net/ahaber/ahaber3/HasBahCa.m3u8
+#EXTINF:-1,A SPOR
+http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
+#EXTINF:-1,A HD
+rtmp://146.0.32.43:1935/hls/1
+#EXTINF:-1,Beyaz TV
+http://iptvchoice.zapto.org:8000/live/testrapid/3CmWLfb3kW/3137.ts
+#EXTINF:-1,CNN Türk
+http://pvr.tvip.ga/0816.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1,Kanal D HD
+http://pvr.tvip.ga/0815.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1,NTV SPOR
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:-1,SHOW HD
+rtmp://146.0.32.43:1935/hls/4
+#EXTINF:-1,Star TV
+rtmp://146.0.32.43:1935/hls/10
+#EXTINF:-1,TV8 HD
+rtmp://146.0.32.43:1935/hls/6
+#EXTINF:-1,TRT1
+http://pvr.tvip.ga/0801.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1,TRT HABER HD
+http://pvr.tvip.ga/0803.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1,TRT HD
+http://pvr.tvip.ga/0805.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1,TRT SPOR HD
+http://pvr.tvip.ga/0807.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1,TRT MÜZIK HD
+http://pvr.tvip.ga/0809.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1,TRT COCUK HD
+http://pvr.tvip.ga/0811.m3u8|X-Forwarded-For=82.222.61.111
+#EXTINF:-1,TRT TÜRK HD
+http://pvr.tvip.ga/0813.m3u8|X-Forwarded-For=82.222.61.111

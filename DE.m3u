@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1,Das Erste HD
+http://pvr.tvip.ga/0002.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,ZDF HD
+http://pvr.tvip.ga/0004.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,RTL HD
+http://pvr.tvip.ga/0127.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,Sat.1
+http://pvr.tvip.ga/0006.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,ProSieben HD
+http://pvr.tvip.ga/0128.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,kabel eins
+http://pvr.tvip.ga/0008.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,RTL II
+http://pvr.tvip.ga/0009.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,VOX
+http://pvr.tvip.ga/0010.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,arte HD
+http://pvr.tvip.ga/0012.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,3sat HD
+http://pvr.tvip.ga/0014.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,Phoenix HD
+http://pvr.tvip.ga/0030.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,N24 HD
+http://pvr.tvip.ga/0033.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,n-tv
+http://pvr.tvip.ga/0034.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,Disney Channel
+http://pvr.tvip.ga/0036.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,RTL NITRO
+http://pvr.tvip.ga/0040.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,TELE 5
+http://pvr.tvip.ga/0041.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,Nickelodeon
+http://pvr.tvip.ga/0043.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,Viva/Comedy Central
+http://pvr.tvip.ga/0044.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,Super RTL
+http://pvr.tvip.ga/0045.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,KiKA HD
+http://pvr.tvip.ga/0047.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,Eurosport
+http://pvr.tvip.ga/0049.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,SPORT1
+http://pvr.tvip.ga/0050.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,ProSieben Maxx
+http://pvr.tvip.ga/0051.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,DMAX
+http://pvr.tvip.ga/0052.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1,NHK World
+http://pvr.tvip.ga/0428.m3u8|X-Forwarded-For=81.17.18.52
+
